@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Wenyan's research focuses on environmental impact on human health, related to landscape preference and justice, and landscape ecology and sustainability. She is interested in interdisciplinary research methods. She have been trained as landscape architect in Bachelor at AUST, starting study on environmental psychology at CUMT, and taking research on geography science and population health at HKU. Her CV is here.
+Wenyan's research focuses on environmental impact on human health, related to landscape preference and justice, and landscape ecology and sustainability. She is interested in interdisciplinary research methods. She have been trained as landscape architect in Bachelor at AUST, starting study on environmental psychology at CUMT, and taking research on geography science and population health at HKU. 
+Her CV is here.
+She can be contacted through wenyan.xu.usu.edu
