@@ -20,34 +20,3 @@ author_profile: true
 <p>[3].	<strong>Xu, W</strong>., Zhao, J. (2018). Biological basis and cultural influence of environmental aesthetics as well as design application. Landscape Architecture, 154 vol. 25 (Chinese).</p>
 <p>[2].	Zhao, J., <strong>Xu, W</strong>., & Lin B. (2018). An evidence-based study on plant landscape design in urban green spaces from the perspective of aesthetic preference of the public. Urban Problems, p. 41-45 (Chinese).</p>
 <p>[1]15.	Zhao, J., <strong>Xu</strong>, W., & Li, R. (2017). Visual preference of trees: the effects of tree attributes and seasons. Urban Forestry & Urban Greening, 25, 19-25.</p>
-
-
-
-{% include base_path %}
-
-<!-- <!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %} -->
-
-
-
-
-
-
