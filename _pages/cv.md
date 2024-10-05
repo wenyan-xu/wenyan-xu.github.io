@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Ph.D. in Landscape Architecture, The University of Hong Kong, 2023
+* M.A. in Art Design, China University of Mining and Technology, 2019
+* B.S. in Agriculture in Landscape Gardening, Anhui University of Science and Technology, 2016
 
 Work experience
 ======
