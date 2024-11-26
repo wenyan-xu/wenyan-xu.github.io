@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "coming soon"
+title: "Coming soon"
 author_profile: true
 redirect_from: 
   - /md/
