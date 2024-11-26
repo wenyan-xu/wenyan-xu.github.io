@@ -17,4 +17,4 @@ Education
 
 Work experience
 ======
-* Spring 2024: page coming soon
+* content coming soon
