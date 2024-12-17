@@ -17,4 +17,5 @@ Education
 
 Work experience
 ======
-* content coming soon
+* 2023/09 - 2024/02 Senior Research Project Manager at Urban Environments & Human Health Lab, The University of Hong Kong
+* 2024/02 - Current Postdoc Fellow at Department of Landscape Architecture and Environmental Planning, Utah State University
