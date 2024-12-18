@@ -2,7 +2,7 @@
 title: "Strategic Landscape Planning & Landscape History and Theory"
 collection: teaching
 type: "Postgraduate and Undergraduate course"
-permalink: /teaching/2020-01-15-teaching-1
+permalink: /teaching/2014-spring-teaching-1
 venue: "The University of Hong Kong, Faculty of Architecture"
 date: 2020-01-15
 location: "HKU, Hong Kong"
